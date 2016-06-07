@@ -23,7 +23,7 @@ Installation
 
 Make sure you have the MongoDB PHP driver installed. You can find installation instructions at http://php.net/manual/en/mongodb.installation.php
 
-**WARNING**: The old mongo PHP driver is not supported anymore in versions >= 3.0.
+**WARNING**: The old mongo PHP driver is not supported anymore in versions <= 3.0.
 
 Installation using composer:
 
